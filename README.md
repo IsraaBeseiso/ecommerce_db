@@ -16,7 +16,7 @@ In this page you will be able to see the product tags and category using insomni
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](demo.gif.gif)
 
 ## Installation
 
@@ -28,7 +28,4 @@ You will need to install dependencies with **npm i or npm install**
 
 - node
 - express
-
-## License
-
-This project is licensed under MIT.
+- nodemon
